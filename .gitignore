@@ -1,0 +1,13 @@
+# I don't have space for your libraries and binaries
+.stack-work/
+dist/
+dist-newstyle/
+
+# vis is a better editor anyway
+.idea/
+.vscode/
+
+# these belong to the OS, not the project
+.DS_Store
+*.exe
+*.dll

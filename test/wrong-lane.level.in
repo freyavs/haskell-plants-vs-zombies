@@ -1,0 +1,10 @@
+Lost when zombie on lane 2 arrives after 11 seconds (0.1)
+Peashooter
+00:00 - Zombie Phase
+every 9.0 seconds for 100 times {
+	on lane 1 { Dog }
+}
+after 2.0 seconds {
+	on lane 2 { Dog }
+}
+00:15
